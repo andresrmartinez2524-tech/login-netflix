@@ -16,7 +16,7 @@ Este proyecto es una réplica del login de Netflix desarrollada con React, enfoc
 
 * React
 * CSS3
-* Vite (si fue utilizado)
+* Vite
 
 ---
 
@@ -100,7 +100,7 @@ No está afiliado con Netflix.
 
 ## Autor
 
-* Tu nombre
+* Andres Rivera
 
 ---
 
