@@ -23,9 +23,7 @@
   justify-content: center;
   color: white;
 }
-.peliculas{
 
-}
 
 .contenedor {
   font-family: 'Inter', 'Montserrat', sans-serif;
@@ -135,7 +133,7 @@ a {
   grid-template-columns: repeat(4, 1fr);
   width: 100%;
   padding: 1rem;
-  gap: 1rem;
+
   
  
 }
@@ -186,5 +184,18 @@ a {
   border-radius: 12px;
   background-color: rgb(255, 255, 255);
 
+}
+
+@media screen and (max-width: 600px) {
+  .contenedor-card {
+
+    display: flex;
+    flex-direction: column;
+    gap: 0;
+  }
+  .card{
+     margin-top: 1rem;
+  margin-bottom: 1rem;
+  }
 }
 
